@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este proyecto implementa una **simulación simplificada en C** de algunas ideas del artículo *User-level Checkpointing for LinuxThreads Programs*.
+Este archivo implementa una **simulación simplificada en C** de algunas ideas del artículo *User-level Checkpointing for LinuxThreads Programs*.
 
 La simulación utiliza varios `pthread` con dos tipos de estado:
 
